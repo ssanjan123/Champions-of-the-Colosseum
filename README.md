@@ -33,10 +33,11 @@ Read the development report that outlines all the key developments and design de
 ### 2. Gameplay Trailer
 
 Watch the official gameplay trailer for Champions of the Colosseum. The trailer offers a visual preview of the game's exciting features, art style, and gameplay dynamics. It's a great way to get a feel for the game before diving into it.
+https://youtu.be/-pUK0RX_K1U?si=L0U6uHrH4ICdSB7s
 
-## Conclusion
+## Verdict
 
-Champions of the Colosseum is an immersive board game experience brought to life in Tabletop Simulator. With the provided JSON setup file and additional resources, you'll be ready to embark on epic battles in the Colosseum. Enjoy the game!
+Champions of the Colosseum is an immersive board game experience brought to life in Tabletop Simulator. With the provided JSON setup file and additional resources, you'll be ready to embark on epic card battles in the Colosseum. Enjoy the game!
 
 (Note: If you have any specific questions or need further assistance with the game, please provide additional details, and I'll be happy to help.)
 @ssanjan@sfu.ca
