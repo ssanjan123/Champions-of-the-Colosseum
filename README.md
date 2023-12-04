@@ -21,14 +21,12 @@ To play Champions of the Colosseum on Tabletop Simulator, follow these steps:
 
 6. Follow any specific in-game instructions for setup and gameplay provided within the simulation.
 
-## Additional Resources
 
-For a comprehensive understanding of Champions of the Colosseum and to explore its development and gameplay, consider the file named
-Champions of the Colosseum - Full Game Information.pdf
 
 ### 1. Development Report
 
 Read the development report that outlines all the key developments and design decisions made during the creation of the game. This report provides insights into the game's mechanics, balance, and overall design philosophy.
+https://github.com/ssanjan123/Champions-of-the-Colosseum/blob/main/Champions%20of%20the%20Colosseum%20-%20Full%20Game%20Information.pdf
 
 ### 2. Gameplay Trailer
 
